@@ -1,0 +1,11 @@
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\iodom\Documents\Visual Studio 2019\Projects\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
